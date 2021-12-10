@@ -1,0 +1,5 @@
+requirements:
+python
+pygame
+how to launch:
+double click "main.py"
